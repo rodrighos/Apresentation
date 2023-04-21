@@ -14,7 +14,7 @@
   
 </div>
 
-![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true)
+
 ![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=transparent)
 ![Rodrigho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=dark#gh-dark-mode-only)
 
