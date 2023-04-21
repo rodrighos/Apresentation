@@ -14,10 +14,10 @@
   
 </div>
 
-[![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true)]
-[![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=transparent)]
-[![Rodrigho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=dark#gh-dark-mode-only)]
-[![Rodrighos's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=default#gh-light-mode-only)]
+![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true)
+![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=transparent)
+![Rodrigho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=dark#gh-dark-mode-only)
+
 
 
 
