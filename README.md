@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello there!
+#### General Kenobi. 👋
 
-<!--
-**rodrighos/rodrighos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on CyberSecurity
+- 🌱 I’m currently learning - Javascript, Bash, Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos)](https://github.com/rodrighos/github-readme-stats)
+![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true)
+![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=transparent)
+![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&bg_color=00000000)
+[![Rodrigho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rodrighos/github-readme-stats#gh-dark-mode-only)
+[![Rodrighos's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/rodrighos/github-readme-stats#gh-light-mode-only)
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rodrighos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rodrighos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rodrighos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rodrighos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rodrighos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rodrighos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rodrighos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rodrighos-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  
+  ##
+ 
