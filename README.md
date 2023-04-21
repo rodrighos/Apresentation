@@ -13,7 +13,7 @@
   <img align="center" alt="Rodrighos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
+##
 
 ![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=transparent)
 ![Rodrigho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=dark#gh-dark-mode-only)
