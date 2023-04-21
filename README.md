@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on CyberSecurity
 - 🌱 I’m currently learning - Javascript, Bash, Python.
 
-[![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos)](https://github.com/rodrighos/github-readme-stats)
+
 ![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true)
 ![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&theme=transparent)
 ![Rodrigho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrighos&show_icons=true&bg_color=00000000)
